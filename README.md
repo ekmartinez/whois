@@ -1,2 +1,3 @@
-# whois
+# Whois
+
 Python whois tool.
