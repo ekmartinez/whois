@@ -8,8 +8,13 @@ From the command line:
 
 Lookup Information:
 ------------------------------
+
 204.79.197.200
+
 Microsoft Corporation
+
 Redmond WA 98052
+
 US
+
 ------------------------------
