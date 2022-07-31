@@ -4,17 +4,16 @@ Example:
 
 From the command line:
 
-`python whois.py 204.79.197.200`
+`python whois.py 140.82.114.22
 
 Lookup Information:
 ------------------------------
 
-204.79.197.200
+140.82.114.22
 
-Microsoft Corporation
+GitHub, Inc.
 
-Redmond WA 98052
+San Francisco CA 94107
 
 US
-
 ------------------------------
